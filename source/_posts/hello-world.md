@@ -1,13 +1,13 @@
 ---
 title: 恒Zzz
 ---
-测试：这是一段废话，如果你看到了，就说明这是一段废话。那我为什么说这是一段废话呢？因为这就是一段废话。废话为什么是废话呢？以为废话就是废话。
+测试：这是一段废话，如果你看到了，就说明这是一段废话。那我为什么说这是一段废话呢？因为这就是一段废话。废话为什么是废话呢？因为废话就是废话。
 ## Quick Start
 
 ### Create a new post
 
 ``` bash
-$ hexo new "测试"
+$ hexo new "菊与刀"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
