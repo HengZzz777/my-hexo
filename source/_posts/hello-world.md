@@ -1,8 +1,7 @@
 ---
 title: 恒Zzz
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
+测试：这是一段废话，如果你看到了，就说明这是一段废话。那我为什么说这是一段废话呢？因为这就是一段废话。废话为什么是废话呢？以为废话就是废话。
 ## Quick Start
 
 ### Create a new post
